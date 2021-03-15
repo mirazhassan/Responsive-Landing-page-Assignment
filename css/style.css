@@ -1,0 +1,8 @@
+section{
+    width: 1200px;
+    height: 800px;
+}
+.half-width{
+    width: 50%;
+    height: 50%;
+}
