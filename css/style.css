@@ -1,8 +1,15 @@
-section{
-    width: 1200px;
-    height: 800px;
+.jacket-card{
+    border: 0;
+   
+ }
+ .jacket-card-footer{
+     background-color: white;
+     border: 0;
+ }
+.image-minimize{
+    height:300px;
+   
 }
-.half-width{
-    width: 50%;
-    height: 50%;
+.footer-radious{
+    border-radius: 20px;
 }
